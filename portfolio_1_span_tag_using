@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Я умею делать спанами и я вам докажу!</title>
+</head>
+
+<body>
+
+        <header>
+                <nav>
+                        <ul>
+                                <li>Это меню, но оно не спанами сделано (если вы не знали)</li>
+                        </ul>
+                </nav>
+        </header>
+        
+        <section>
+        
+                <article>
+                        <header>
+                                <h2>Я заголовок про то, что я умею верстать спанами (но тут спана нет)</h2>
+                        </header>
+                        <p>Давно выяснено, что <span>спанами делать можно и нужно</span> и будет хорошо!</p>
+                </article>
+                
+                              
+        </section>
+
+        
+        <footer>
+           <p>Copyright 2021</p>
+        </footer>
+
+</body>
+
+</html>
